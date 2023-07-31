@@ -1,0 +1,316 @@
+_id,id,genre,budget,public,durée,title,title_original,distributeur,country,date
+1,2,Film en 3D,90 000 000 $,Tous publics,1h27,L'Age de glace 3 - Le Temps des dinosaures,L'Age de glace 3 - Le Temps des dinosaures,20th Century Fox,Etats-Unis,03/07/2009
+2,3,Comédie,74 982 618 $,Tous publics,1h54,Asterix aux Jeux Olympiques,Asterix aux Jeux Olympiques,Pathé,France,30/01/2008
+3,9,Etats-Unis,175 000 000 $,Tous publics,1h54,La Momie 3 : La Malédiction du dragon,La Momie 3 : La Malédiction du dragon,Universal,Etats-Unis,06/08/2008
+4,8,Animation 3D,130 000 000 $,Tous publics,1h31,Kung Fu Panda,Kung Fu Panda,Paramount,Etats-Unis,09/07/2008
+5,4,Aventure - Action,225 000 000 $,Tous publics,1h47,Quantum of Solace,Quantum of Solace,Sony Pictures,Etats-Unis,31/10/2008
+6,7,Adaptation BD,185 000 000 $,Tous publics,2h30,"The Dark Knight, Le Chevalier Noir","The Dark Knight, Le Chevalier Noir",Warner Bros.,Etats-Unis,13/08/2008
+7,5,Chasse au trésor,185 000 000 $,Tous publics,2h05,Indiana Jones et le Royaume du crane de cristal,Indiana Jones et le Royaume du crane de cristal,Paramount,Etats-Unis,21/05/2008
+8,6,Fantasy,225 000 000 $,Tous publics,2h49,Le Monde de Narnia : chapitre 2 - Prince Caspian,Le Monde de Narnia : chapitre 2 - Prince Caspian,Walt Disney Pictures,Etats-Unis,25/06/2008
+9,10,Comicbook,85 000 000 $,Tous publics,1h50,Hellboy II les légions d'or maudites,Hellboy II les légions d'or maudites,Universal,Etats-Unis,29/10/2008
+10,11,Etats-Unis,150 000 000 $,Tous publics,1h29,Madagascar 2 : la grande évasion,Madagascar 2 : la grande évasion,Paramount,Etats-Unis,03/12/2008
+11,12,Fantasy,200 000 000 $,Tous publics,2h33,Harry Potter et le Prince de sang-mêlé,Harry Potter et le Prince de sang-mêlé,Warner Bros.,Etats-Unis,15/07/2009
+12,13,Etats-Unis,50 000 000 $,Moins de 12 ans,1h33,John Rambo,John Rambo,Metropolitan,Etats-Unis,06/02/2008
+13,14,Science Fiction,61 479 748 $,Tous publics,1h41,Babylon A.D.,Babylon A.D.,Studiocanal,France,20/08/2008
+14,16,Adaptation BD,140 000 000 $,Tous publics,2h10,Iron Man,Iron Man,SND,Etats-Unis,30/04/2008
+15,17,Aventure - Action,120 000 000 $,Tous publics,2h15,Speed Racer,Speed Racer,Warner Bros.,Etats-Unis,18/06/2008
+16,18,Adaptation BD,125 000 000 $,Tous publics,1h54,L'Incroyable Hulk,L'Incroyable Hulk,SND,Etats-Unis,23/07/2008
+17,22,Etats-Unis,35 000 000 $,Tous publics,1h59,Les Noces rebelles,Les Noces rebelles,Paramount,Etats-Unis,21/01/2009
+18,21,Thriller,150 000 000 $,Tous publics,2h20,Anges & Démons,Anges & Démons,Sony Pictures,Etats-Unis,13/05/2009
+19,19,Etats-Unis,150 000 000 $,Tous publics,1h32,Hancock,Hancock,Sony Pictures,Etats-Unis,09/07/2008
+20,20,Aventure - Action,105 000 000 $,Tous publics,1h49,10 000,10 000,Warner Bros.,Etats-Unis,12/03/2008
+21,23,Drame,0 $,Tous publics,1h50,The Edge of Love,The Edge of Love,Swift,Grande-Bretagne,00/00/0000
+22,24,Comédie dramatique,150 000 000 $,Tous publics,2h48,L'Etrange histoire de Benjamin Button,L'Etrange histoire de Benjamin Button,Warner Bros.,Etats-Unis,04/02/2009
+23,25,Adaptation BD,258 000 000 $,Tous publics,2h15,Spider-Man 3,Spider-Man 3,Gaumont Sony,Etats-Unis,01/05/2007
+24,26,Drame,20 757 242 $,Tous publics,2h20,La Môme,La Môme,TFM Distribution,France,14/02/2007
+25,27,Comédie,17 316 532 $,Tous publics,1h31,Taxi 4,Taxi 4,EuropaCorp,France,14/02/2007
+26,29,Romance,12 215 023 $,Tous publics,1h37,"Ensemble, c'est tout","Ensemble, c'est tout",Pathé,France,21/03/2007
+27,28,Chasse au trésor,300 000 000 $,Tous publics,2h48,"Pirates des Caraïbes, jusqu'au bout du monde","Pirates des Caraïbes, jusqu'au bout du monde",Walt Disney Pictures,Etats-Unis,23/05/2007
+28,30,Péplum,60 000 000 $,Moins de 12 ans,1h57,300,300,Warner Bros.,Etats-Unis,21/03/2007
+29,31,Allemagne,2 000 000 $,Tous publics,2h17,La Vie des autres,La Vie des autres,Océan Films,Allemagne,31/01/2007
+30,33,Comédie,11 581 667 $,Tous publics,2h00,Molière,Molière,Wild Bunch,France,31/01/2007
+31,32,France,12 150 000 $,Tous publics,1h34,Le Prix à payer (2007),Le Prix à payer (2007),Wild Bunch,France,04/04/2007
+32,35,Comédie,20 000 000 $,Tous publics,1h29,Les Vacances de Mr. Bean,Les Vacances de Mr. Bean,Studiocanal,Grande-Bretagne,18/04/2007
+33,34,Comicbook,120 000 000 $,Tous publics,1h54,Ghost Rider,Ghost Rider,SND,Etats-Unis,21/02/2007
+34,36,Fantasy,60 000 000 $,Tous publics,1h35,Le Secret de Terabithia,Le Secret de Terabithia,SND,Etats-Unis,28/03/2007
+35,38,Adaptation Livre,85 000 000 $,Tous publics,2h36,Zodiac,Zodiac,Warner Bros.,Etats-Unis,17/05/2007
+36,39,Thriller,0 $,Tous publics,1h53,La Faille,La Faille,Metropolitan,Etats-Unis,09/05/2007
+37,37,France,8 880 000 $,Tous publics,1h58,Danse avec lui,Danse avec lui,Wild Bunch,France,21/02/2007
+38,40,France,7 600 000 $,Tous publics,1h25,Contre-enquête,Contre-enquête,Pathé,France,07/03/2007
+39,41,France,12 260 000 $,Tous publics,2h04,Michou d'Auber,Michou d'Auber,EuropaCorp,France,28/02/2007
+40,42,Drame,20 311 000 $,Tous publics,2h30,Jacquou Le Croquant,Jacquou Le Croquant,Pathé,France,17/01/2007
+41,44,Thriller,16 026 815 $,Tous publics,1h55,Pars vite et reviens tard,Pars vite et reviens tard,Gaumont Sony,France,24/01/2007
+42,46,Thriller,8 800 000 $,Moins de 12 ans,1h59,Le Serpent (2007),Le Serpent (2007),Wild Bunch,France,10/01/2007
+43,47,Etats-Unis,40 000 000 $,Tous publics,1h36,Le Come back,Le Come back,Warner Bros.,Etats-Unis,14/03/2007
+44,43,France,9 100 000 $,Tous publics,1h44,Odette Toulemonde,Odette Toulemonde,Pathé,France,07/02/2007
+45,45,France,7 700 000 $,Tous publics,1h30,Je crois que je l'aime,Je crois que je l'aime,Studiocanal,France,21/02/2007
+46,48,Adaptation Livre,57 172 165 $,Moins de 12 ans,1h57,Hannibal Lecter : les origines du mal,Hannibal Lecter : les origines du mal,Quinta Distribution,Grande-Bretagne,07/02/2007
+47,49,Science Fiction,0 $,Tous publics,1h36,Next,Next,TFM Distribution,Etats-Unis,25/04/2007
+48,52,Chasse au trésor,15 200 000 $,Tous publics,1h40,L'ïle au(x) trésor(s),L'ïle au(x) trésor(s),Bac Films,France,31/01/2007
+49,54,Etats-Unis,60 000 000 $,Tous publics,2h04,Shooter - tireur d'élite,Shooter - tireur d'élite,Paramount,Etats-Unis,18/04/2007
+50,51,Etats-Unis,0 $,Tous publics,1h49,Dangereuse séduction (2007),Dangereuse séduction (2007),Gaumont Sony,Etats-Unis,11/04/2007
+51,53,France,5 300 000 $,Tous publics,1h36,Demandez la permission aux enfants!,Demandez la permission aux enfants!,TFM Distribution,France,04/04/2007
+52,50,Etats-Unis,30 000 000 $,Tous publics,1h35,Le Nombre 23,Le Nombre 23,Metropolitan,Etats-Unis,28/02/2007
+53,55,France,3 960 000 $,Tous publics,1h27,J'veux pas que tu t'en ailles,J'veux pas que tu t'en ailles,UGC Distribution,France,25/04/2007
+54,56,France,6 800 000 $,Tous publics,1h55,Les Témoins (2007),Les Témoins (2007),UGC Distribution,France,07/03/2007
+55,57,Grande-Bretagne,0 $,Tous publics,1h47,Sunshine (2007),Sunshine (2007),20th Century Fox,Grande-Bretagne,11/04/2007
+56,59,France,4 210 055 $,Tous publics,1h30,Pur week-end,Pur week-end,Wild Bunch,France,01/05/2007
+57,63,Comédie,8 730 000 $,Tous publics,1h50,Dialogue avec mon jardinier,Dialogue avec mon jardinier,Studiocanal,France,06/06/2007
+58,61,Musical,14 000 000 $,Tous publics,1h53,Steppin',Steppin',Gaumont Sony,Etats-Unis,16/05/2007
+59,58,Adaptation Livre,9 750 000 $,Tous publics,1h59,Goodbye Bafana,Goodbye Bafana,Paramount,Allemagne,11/04/2007
+60,60,France,5 950 000 $,Tous publics,1h28,Le Vilain petit canard et moi,Le Vilain petit canard et moi,Gébéka,France,14/02/2007
+61,64,France,6 800 000 $,Tous publics,1h35,La Tête de maman,La Tête de maman,UGC Distribution,France,28/03/2007
+62,62,Animation 3D,0 $,Tous publics,1h27,Cendrillon & le prince (pas trop) charmant,Cendrillon & le prince (pas trop) charmant,TFM Distribution,Etats-Unis,28/03/2007
+63,65,France,4 000 000 $,Moins de 16 ans,1h47,Truands,Truands,Studiocanal,France,17/01/2007
+64,67,Etats-Unis,60 000 000 $,Tous publics,1h50,Norbit,Norbit,Paramount,Etats-Unis,04/04/2007
+65,70,Aventure - Action,4 260 000 $,Moins de 12 ans,1h30,Scorpion,Scorpion,Bac Films,France,21/02/2007
+66,68,Etats-Unis,21 000 000 $,Tous publics,2h03,Ecrire pour exister,Ecrire pour exister,Paramount,Etats-Unis,14/03/2007
+67,66,France,7 400 000 $,Tous publics,1h38,Hellphone,Hellphone,Studiocanal,France,28/03/2007
+68,69,Comédie,20 000 000 $,Tous publics,1h26,Big movie,Big movie,20th Century Fox,Etats-Unis,04/04/2007
+69,72,France,11 700 000 $,Tous publics,1h58,Golden door,Golden door,Memento Films,France,21/03/2007
+70,71,France,2 190 000 $,Tous publics,1h40,Très bien merci,Très bien merci,Gémini Films,France,25/04/2007
+71,73,Etats-Unis,0 $,Moins de 12 ans,1h57,Alpha Dog,Alpha Dog,Metropolitan,Etats-Unis,28/03/2007
+72,77,Drame,10 800 000 $,Tous publics,1h52,Le Scaphandre et le papillon,Le Scaphandre et le papillon,Pathé,France,23/05/2007
+73,75,Thriller,30 000 000 $,PG,1h50,88 Minutes,88 Minutes,Metropolitan,Etats-Unis,30/05/2007
+74,74,Horreur,0 $,Moins de 12 ans,1h50,Boulevard de la mort - un film Grind House,Boulevard de la mort - un film Grind House,TFM Distribution,Etats-Unis,06/06/2007
+75,76,France,3 420 000 $,Tous publics,1h30,Les Ambitieux,Les Ambitieux,Pyramide,France,24/01/2007
+76,78,Animation,0 $,Tous publics,1h55,Les Contes de Terremer,Les Contes de Terremer,Walt Disney Pictures,Japon,04/04/2007
+77,80,Etats-Unis,0 $,Tous publics,1h36,Les Châtiments,Les Châtiments,Warner Bros.,Etats-Unis,18/04/2007
+78,79,France,0 $,Tous publics,1h35,Les Chansons d'amour,Les Chansons d'amour,Bac Films,France,23/05/2007
+79,81,Chine,0 $,Tous publics,1h48,Still Life,Still Life,Ad vitam,Chine,02/05/2007
+80,86,Drame,14 920 000 $,Tous publics,1h54,Angel (2007),Angel (2007),Wild Bunch,France,14/03/2007
+81,82,France,3 290 000 $,Tous publics,1h46,Anna M.,Anna M.,Diaphana,France,11/04/2007
+82,83,France,3 500 000 $,Tous publics,1h36,J'attends quelqu'un,J'attends quelqu'un,Bac Films,France,21/03/2007
+83,88,France,5 233 975 $,Tous publics,1h43,La Disparue de Deauville,La Disparue de Deauville,SND,France,23/05/2007
+84,85,Animation,5 330 000 $,Tous publics,1h17,La Reine Soleil,La Reine Soleil,Rezo Films,France,04/04/2007
+85,84,Grande-Bretagne,0 $,Tous publics,2h00,Par effraction,Par effraction,Walt Disney Pictures,Grande-Bretagne,14/03/2007
+86,87,Etats-Unis,0 $,Tous publics,1h52,Les Oubliées de Juarez,Les Oubliées de Juarez,SND,Etats-Unis,25/04/2007
+87,89,Belgique,0 $,Tous publics,1h43,Irina Palm,Irina Palm,Pyramide,Belgique,09/05/2007
+88,90,Drame,7 490 000 $,Tous publics,1h42,Jean de La Fontaine,Jean de La Fontaine,Rezo Films,France,18/04/2007
+89,91,France,10 570 000 $,Tous publics,1h30,Love (et ses petits désastres),Love (et ses petits désastres),EuropaCorp,France,25/04/2007
+90,92,Horreur,0 $,Moins de 16 ans,1h23,Hitcher (2007),Hitcher (2007),SND,Etats-Unis,09/05/2007
+91,95,Canada,0 $,Tous publics,1h36,We Feed the World: Le Marché de la faim,We Feed the World: Le Marché de la faim,Zootrope Films,Canada,25/04/2007
+92,96,Canada,0 $,Tous publics,1h45,Loin d'elle,Loin d'elle,Fabrique de Films,Canada,02/05/2007
+93,94,Grande-Bretagne,0 $,Tous publics,1h42,Cashback,Cashback,Gaumont Sony,Grande-Bretagne,17/01/2007
+94,93,Animation,34 000 000 $,Tous publics,1h30,"TMNT, Les Tortues Ninja (2007)","TMNT, Les Tortues Ninja (2007)",Warner Bros.,Etats-Unis,11/04/2007
+95,97,Etats-Unis,0 $,Tous publics,1h36,Mimzy le messager du futur,Mimzy le messager du futur,Metropolitan,Etats-Unis,25/04/2007
+96,98,Etats-Unis,0 $,Tous publics,2h04,Lucky You,Lucky You,Warner Bros.,Etats-Unis,09/05/2007
+97,103,Etats-Unis,16 000 000 $,Moins de 12 ans,1h58,Les Messagers,Les Messagers,Metropolitan,Etats-Unis,04/04/2007
+98,100,France,4 270 000 $,Tous publics,1h45,Ma place au soleil,Ma place au soleil,Studiocanal,France,14/03/2007
+99,99,Drame,3 800 000 $,Tous publics,1h44,Zone libre,Zone libre,TFM Distribution,France,17/01/2007
+100,101,France,3 930 000 $,Tous publics,2h07,Ne touchez pas la hache,Ne touchez pas la hache,Films du Losange,France,28/03/2007
+101,102,France,83 360,Drame,2 400 000 $,Le Candidat,Le Candidat,Pyramide,France,11/04/2007
+102,104,France,4 000 000 $,Tous publics,1h34,Après lui,Après lui,20th Century Fox,France,23/05/2007
+103,105,France,2 350 000 $,Tous publics,1h35,Nue propriété,Nue propriété,Haut et Court,France,21/02/2007
+104,107,Etats-Unis,0 $,Moins de 12 ans,1h42,Bug,Bug,Metropolitan,Etats-Unis,21/02/2007
+105,106,Thriller,0 $,Moins de 12 ans,1h48,Cœurs perdus,Cœurs perdus,Metropolitan,Etats-Unis,06/06/2007
+106,109,Drame,2 540 000 $,Tous publics,1h33,Dans les cordes (2007),Dans les cordes (2007),Pyramide,France,04/04/2007
+107,108,France,0 $,Tous publics,1h30,Mon fils à moi,Mon fils à moi,Studiocanal,France,07/03/2007
+108,111,France,0 $,Tous publics,1h30,Les Petites vacances,Les Petites vacances,Pierre Grise,France,24/01/2007
+109,110,Inde,9 500 000 $,PG,2h02,Un nom pour un autre,Un nom pour un autre,20th Century Fox,Inde,28/03/2007
+110,112,Etats-Unis,15 000 000 $,PG,1h56,Black Snake Moan,Black Snake Moan,Paramount,Etats-Unis,30/05/2007
+111,113,Etats-Unis,0 $,PG,1h26,The Interview,The Interview,Diaphana,Etats-Unis,01/08/2007
+112,117,France,2 500 000 $,Moins de 16 ans,1h20,A l'intérieur,A l'intérieur,Fabrique de Films,France,13/06/2007
+113,114,Etats-Unis,60 000 000 $,Tous publics,1h39,"Bande de sauvages, vieux motard que jamais","Bande de sauvages, vieux motard que jamais",Walt Disney Pictures,Etats-Unis,13/06/2007
+114,115,Etats-Unis,50 000 000 $,Tous publics,1h55,Faussaire,Faussaire,Metropolitan,Etats-Unis,13/06/2007
+115,116,Animation 3D,160 000 000 $,Tous publics,1h32,Shrek Le Troisième,Shrek Le Troisième,Paramount,Etats-Unis,13/06/2007
+116,119,Etats-Unis,15 000 000 $,Moins de 16 ans,1h29,La Colline a des yeux 2,La Colline a des yeux 2,20th Century Fox,Etats-Unis,20/06/2007
+117,118,Comédie,7 780 000 $,Tous publics,1h36,Gomes Vs Tavares,Gomes Vs Tavares,SND,France,13/06/2007
+118,120,Aventure - Action,85 000 000 $,Tous publics,2h01,Ocean's Thirteen,Ocean's Thirteen,Warner Bros.,Etats-Unis,20/06/2007
+119,122,France,5 531 207 $,Tous publics,1h22,Steak,Steak,Studiocanal,France,20/06/2007
+120,121,France,139 025,Drame,3 910 000 $,Fragile(s),Fragile(s),Bac Films,France,20/06/2007
+121,124,Etats-Unis,0 $,Tous publics,1h51,Rex chien pompier,Rex chien pompier,20th Century Fox,Etats-Unis,27/06/2007
+122,125,France,4 210 000 $,PG,1h45,Le Roman de gare,Le Roman de gare,Les Films 13,France,27/06/2007
+123,127,Etats-Unis,110 000 000 $,Tous publics,2h10,Die Hard 4 - retour en enfer,Die Hard 4 - retour en enfer,20th Century Fox,Etats-Unis,04/07/2007
+124,126,Animation,7 300 000 $,PG,1h30,Persepolis,Persepolis,Diaphana,France,27/06/2007
+125,123,Thriller,16 000 000 $,Tous publics,1h38,The Lookout,The Lookout,Walt Disney Pictures,Etats-Unis,27/06/2007
+126,128,Etats-Unis,0 $,Tous publics,1h47,Delirious,Delirious,Memento Films,Etats-Unis,04/07/2007
+127,129,France,2 950 000 $,Tous publics,1h30,Je déteste les enfants des autres,Je déteste les enfants des autres,SND,France,04/07/2007
+128,130,Etats-Unis,26 403 $,Thriller,3 700 000 $,Blackout,Blackout,-,Etats-Unis,00/00/0000
+129,131,France,6 720 699 $,PG,1h55,La fille coupée en deux,La fille coupée en deux,Wild Bunch,France,08/08/2007
+130,132,Etats-Unis,10 200 000 $,Moins de 16 ans,1h34,Hostel 2,Hostel 2,Sony Pictures,Etats-Unis,11/07/2007
+131,135,Etats-Unis,0 $,PG,1h33,The Tripper,The Tripper,-,Etats-Unis,00/00/0000
+132,134,Comédie,10 000 000 $,Tous publics,1h24,Alerte à Miami / Reno 911 !,Alerte à Miami / Reno 911 !,Paramount,Etats-Unis,18/07/2007
+133,133,Fantasy,150 000 000 $,Tous publics,2h18,Harry Potter et l'Ordre du Phénix,Harry Potter et l'Ordre du Phénix,Warner Bros.,Etats-Unis,11/07/2007
+134,136,Etats-Unis,0 $,Tous publics,1h37,The Invisible,The Invisible,Walt Disney Pictures,Etats-Unis,18/07/2007
+135,137,Etats-Unis,25 000 000 $,Tous publics,1h37,Le Contrat (2007),Le Contrat (2007),Metropolitan,Etats-Unis,11/07/2007
+136,139,Adaptation TV,150 000 000 $,Tous publics,2h24,Transformers,Transformers,Paramount,Etats-Unis,25/07/2007
+137,142,Thriller,17 000 000 $,Moins de 12 ans,1h48,Mi$e à prix,Mi$e à prix,Studiocanal,Etats-Unis,01/08/2007
+138,140,Espagne,0 $,PG,1h54,Les Fantomes de Goya,Les Fantomes de Goya,Studiocanal,Espagne,25/07/2007
+139,141,Animation,75 000 000 $,Tous publics,1h40,Les Simpsons,Les Simpsons,20th Century Fox,Etats-Unis,25/07/2007
+140,138,Buddy-movie,12 000 000 $,Tous publics,2h00,Hot Fuzz,Hot Fuzz,Studiocanal,Grande-Bretagne,18/07/2007
+141,143,Etats-Unis,45 000 000 $,Moins de 12 ans,1h28,Pathfinder le sang du guerrier,Pathfinder le sang du guerrier,20th Century Fox,Etats-Unis,01/08/2007
+142,144,Etats-Unis,19 000 000 $,Moins de 12 ans,1h20,Motel,Motel,Sony Pictures,Etats-Unis,01/08/2007
+143,148,Extra-terrestre,130 000 000 $,PG,1h29,Les 4 Fantastiques et le Surfeur d'Argent,Les 4 Fantastiques et le Surfeur d'Argent,20th Century Fox,Etats-Unis,08/08/2007
+144,145,Horreur,8 000 000 $,PG,1h31,Fido,Fido,Metropolitan,Etats-Unis,01/08/2007
+145,146,Animation 3D,150 000 000 $,Tous publics,1h51,Ratatouille,Ratatouille,Walt Disney Pictures,Etats-Unis,01/08/2007
+146,149,Etats-Unis,0 $,PG,1h33,Primeval,Primeval,-,Etats-Unis,00/00/0000
+147,150,Etats-Unis,175 000 000 $,Tous publics,1h36,Evan tout puissant,Evan tout puissant,Paramount,Etats-Unis,15/08/2007
+148,147,France,193 029,Comédie,5 000 000 $,"Tel père, telle fille","Tel père, telle fille",SND,France,01/08/2007
+149,151,Etats-Unis,20 000 000 $,Tous publics,1h50,Prémonitions (2007),Prémonitions (2007),TFM Distribution,Etats-Unis,29/08/2007
+150,152,Etats-Unis,27 000 000 $,Tous publics,1h48,Un enfant pas comme les autres,Un enfant pas comme les autres,Metropolitan,Etats-Unis,15/07/2009
+151,153,Etats-Unis,11 000 000 $,Tous publics,1h30,Je crois que j'aime ma femme,Je crois que j'aime ma femme,20th Century Fox,Etats-Unis,29/08/2007
+152,154,Thriller,20 000 000 $,Moins de 12 ans,2h00,Mr. Brooks,Mr. Brooks,Fabrique de Films,Etats-Unis,29/08/2007
+153,156,Comédie dramatique,1 500 000 $,Tous publics,1h35,Antonio Vivaldi: Un prince à Venise,Antonio Vivaldi: Un prince à Venise,CQFD,France,29/08/2007
+154,157,France,3 335 542 $,Tous publics,1h53,Ceux qui restent,Ceux qui restent,Studiocanal,France,29/08/2007
+155,155,Etats-Unis,85 000 000 $,Tous publics,1h59,Quand Chuck rencontre Larry,Quand Chuck rencontre Larry,Paramount,Etats-Unis,29/08/2007
+156,158,Etats-Unis,0 $,Tous publics,1h44,Waitress,Waitress,20th Century Fox,Etats-Unis,05/09/2007
+157,159,France,2 829 490 $,Tous publics,1h37,La Vie d'artiste,La Vie d'artiste,Haut et Court,France,05/09/2007
+158,160,Adaptation Théatre,75 000 000 $,Tous publics,1h45,Hairspray (2007),Hairspray (2007),Metropolitan,Etats-Unis,22/08/2007
+159,161,Adaptation Livre,110 000 000 $,Tous publics,1h51,La Vengeance dans la peau,La Vengeance dans la peau,Paramount,Etats-Unis,12/09/2007
+160,162,Thriller,80 000 000 $,Tous publics,1h33,Invasion,Invasion,Warner Bros.,Etats-Unis,17/10/2007
+161,163,Etats-Unis,0 $,PG,2h02,A vif,A vif,Warner Bros.,Etats-Unis,26/09/2007
+162,166,France,10 000 000 $,Tous publics,1h34,My Blueberry Nights,My Blueberry Nights,Studiocanal,France,28/11/2007
+163,165,2ème Guerre mondiale,10 972 547 $,Tous publics,1h46,Un secret,Un secret,UGC Distribution,France,03/10/2007
+164,167,Horreur,0 $,Moins de 12 ans,1h31,28 semaines plus tard,28 semaines plus tard,20th Century Fox,Etats-Unis,19/09/2007
+165,164,Etats-Unis,0 $,Moins de 12 ans,1h45,Planète terreur - un film Grindhouse,Planète terreur - un film Grindhouse,TFM Distribution,Etats-Unis,14/08/2007
+166,168,Drame,16 000 000 $,Tous publics,1h40,Un cœur invaincu,Un cœur invaincu,Paramount,Etats-Unis,19/09/2007
+167,169,Thriller,25 000 000 $,Tous publics,1h34,Chambre 1408,Chambre 1408,TFM Distribution,Etats-Unis,16/01/2008
+168,172,Documentaire,0 $,Tous publics,2h02,Shine a Light,Shine a Light,Wild Bunch,Etats-Unis,16/04/2008
+169,173,Comédie,12 447 638 $,Tous publics,1h40,99 Francs,99 Francs,Pathé,France,26/09/2007
+170,176,France,30 426 270 $,Tous publics,1h41,Sa Majesté Minor,Sa Majesté Minor,Studiocanal,France,10/10/2007
+171,170,France,12 460 000 $,Tous publics,1h22,L'Invité,L'Invité,EuropaCorp,France,19/09/2007
+172,171,France,3 125 098 $,Tous publics,1h33,La Face cachée,La Face cachée,Wild Bunch,France,19/09/2007
+173,174,Canada,6 420 000 $,Tous publics,1h55,L'Age des ténèbres,L'Age des ténèbres,Studiocanal,Canada,26/09/2007
+174,175,France,9 780 000 $,Tous publics,1h48,L'Ennemi intime,L'Ennemi intime,SND,France,03/10/2007
+175,177,Etats-Unis,61 000 000 $,Tous publics,1h33,Les Rois du patin,Les Rois du patin,Paramount,Etats-Unis,03/10/2007
+176,178,Etats-Unis,20 000 000 $,Moins de 12 ans,1h44,Paranoiak,Paranoiak,Paramount,Etats-Unis,22/08/2007
+177,180,Etats-Unis,30 000 000 $,Tous publics,2h09,En cloque mode d'emploi,En cloque mode d'emploi,Paramount,Etats-Unis,10/10/2007
+178,182,Adapt. Jeu Vidéo,45 000 000 $,Moins de 12 ans,1h35,Resident Evil: Extinction,Resident Evil: Extinction,Metropolitan,Etats-Unis,03/10/2007
+179,183,Etats-Unis,0 $,Tous publics,1h25,Paranoïd Park,Paranoïd Park,MK2 Diffusion,Etats-Unis,24/10/2007
+180,181,Etats-Unis,0 $,PG,1h57,Evening,Evening,-,Etats-Unis,00/00/0000
+181,179,Romance,0 $,Tous publics,1h46,Le Journal d'une baby-sitter,Le Journal d'une baby-sitter,TFM Distribution,Etats-Unis,14/05/2008
+182,184,Disney,150 000 000 $,Tous publics,1h32,Bienvenue chez les Robinsons,Bienvenue chez les Robinsons,Walt Disney Pictures,Etats-Unis,17/10/2007
+183,188,Arts martiaux,140 000 000 $,Tous publics,1h30,Rush Hour 3,Rush Hour 3,Metropolitan,Etats-Unis,17/10/2007
+184,190,France,8 328 839 $,Moins de 12 ans,1h34,Chrysalis,Chrysalis,Gaumont,France,31/10/2007
+185,187,Etats-Unis,9 000 000 $,Tous publics,2h03,Sicko,Sicko,TFM Distribution,Etats-Unis,05/09/2007
+186,191,Thriller,25 000 000 $,Tous publics,2h00,Michael Clayton,Michael Clayton,SND,Etats-Unis,17/10/2007
+187,185,Russie,4 200 000 $,Tous publics,2h12,Day watch,Day watch,20th Century Fox,Russie,23/01/2008
+188,186,Etats-Unis,120 000 000 $,Tous publics,1h25,Les Rois de la glisse,Les Rois de la glisse,Sony Pictures,Etats-Unis,24/10/2007
+189,189,Etats-Unis,30 000 000 $,Tous publics,2h40,L'Assassinat de Jesse James par le lâche Robert Ford,L'Assassinat de Jesse James par le lâche Robert Ford,Warner Bros.,Etats-Unis,10/10/2007
+190,192,France,9 005 464 $,Tous publics,1h55,Le Cœur des hommes 2,Le Cœur des hommes 2,Pathé,France,24/10/2007
+191,195,Etats-Unis,328 969,Thriller,0 $,The Flock,The Flock,-,Etats-Unis,00/00/0000
+192,193,Adaptation Livre,21 121 564 $,Tous publics,2h36,Le Deuxième souffle,Le Deuxième souffle,ARP Selection,France,24/10/2007
+193,194,Adaptation BD,30 000 000 $,Moins de 12 ans,1h45,30 jours de nuit,30 jours de nuit,SND,Etats-Unis,09/01/2008
+194,196,Etats-Unis,60 000 000 $,Tous publics,2h38,Les Femmes de ses rêves,Les Femmes de ses rêves,Paramount,Etats-Unis,28/11/2007
+195,197,France,6 538 095 $,Tous publics,1h28,Dante 01,Dante 01,Wild Bunch,France,02/01/2008
+196,198,Etats-Unis,75 000 000 $,Tous publics,1h47,Il était une fois…,Il était une fois…,Walt Disney Pictures,Etats-Unis,28/11/2007
+197,199,Thriller,21 000 000 $,Tous publics,1h58,La Nuit nous appartient,La Nuit nous appartient,Wild Bunch,Etats-Unis,28/11/2007
+198,200,Horreur,10 000 000 $,Moins de 16 ans,1h48,Saw IV,Saw IV,Metropolitan,Etats-Unis,21/11/2007
+199,204,Etats-Unis,10 000 000 $,PG,1h33,Margot at the Wedding,Margot at the Wedding,-,Etats-Unis,00/00/0000
+200,205,France,21 430 000 $,Tous publics,1h30,L'Auberge rouge,L'Auberge rouge,Warner Bros.,France,05/12/2007
+201,201,Drame,35 000 000 $,Tous publics,1h28,Lions et agneaux,Lions et agneaux,20th Century Fox,Etats-Unis,21/11/2007
+202,202,Etats-Unis,40 000 000 $,Tous publics,1h30,Angles d'attaque,Angles d'attaque,Sony Pictures,Etats-Unis,19/03/2008
+203,206,Fantasy,190 000 000 $,Tous publics,2h00,A la croisée des mondes: La Boussole d'or,A la croisée des mondes: La Boussole d'or,Metropolitan,Etats-Unis,05/12/2007
+204,203,Thriller,11 130 936 $,Moins de 12 ans,2h04,MR-73,MR-73,Gaumont,France,12/03/2008
+205,207,Etats-Unis,150 000 000 $,Tous publics,1h35,Bee movie - drole d'abeille,Bee movie - drole d'abeille,Paramount,Etats-Unis,12/12/2007
+206,208,Science Fiction,150 000 000 $,Tous publics,1h40,Je suis une légende,Je suis une légende,Warner Bros.,Etats-Unis,19/12/2007
+207,210,Etats-Unis,9 000 000 $,Tous publics,1h48,Le Rêve de Cassandre,Le Rêve de Cassandre,TFM Distribution,Etats-Unis,31/10/2007
+208,209,France,9 806 336 $,Tous publics,1h32,Le Renard et l'enfant,Le Renard et l'enfant,Walt Disney Pictures,France,12/12/2007
+209,212,Etats-Unis,100 000 000 $,Tous publics,1h56,Frère Noël,Frère Noël,Warner Bros.,Etats-Unis,26/12/2007
+210,214,Aventure - Action,125 000 000 $,Tous publics,2h04,Benjamin Gates et le Livre des Secrets,Benjamin Gates et le Livre des Secrets,Walt Disney Pictures,Etats-Unis,13/02/2008
+211,211,Etats-Unis,100 000 000 $,Tous publics,2h40,American Gangster,American Gangster,Paramount,Etats-Unis,14/11/2007
+212,215,Extra-terrestre,40 000 000 $,Moins de 12 ans,1h35,Aliens vs. Predator - Requiem,Aliens vs. Predator - Requiem,20th Century Fox,Etats-Unis,02/01/2008
+213,216,France,4 560 426 $,Tous publics,1h45,Cortex,Cortex,Wild Bunch,France,30/01/2008
+214,217,Etats-Unis,75 000 000 $,Tous publics,1h45,La Guerre selon Charlie Wilson,La Guerre selon Charlie Wilson,Paramount,Etats-Unis,16/01/2008
+215,222,Etats-Unis,0 $,PG,1h55,Seraphim Falls,Seraphim Falls,-,Etats-Unis,00/00/0000
+216,221,Etats-Unis,0 $,PG,1h38,Blood and Chocolate,Blood and Chocolate,-,Etats-Unis,00/00/0000
+217,218,Drame,35 000 000 $,Tous publics,1h55,Deux soeurs pour un roi,Deux soeurs pour un roi,Wild Bunch,Etats-Unis,02/04/2008
+218,219,Etats-Unis,20 000 000 $,PG,1h24,Code Name: The Cleaner,Code Name: The Cleaner,-,Etats-Unis,00/00/0000
+219,220,Etats-Unis,25 000 000 $,PG,2h04,Ma vie sans lui,Ma vie sans lui,-,Etats-Unis,00/00/0000
+220,223,Etats-Unis,0 $,PG,1h42,Because I Said So,Because I Said So,-,Etats-Unis,00/00/0000
+221,224,Etats-Unis,1 654 367 $,Drame,0 $,Factory Girl,Factory Girl,-,Etats-Unis,00/00/0000
+222,225,Etats-Unis,0 $,PG,1h35,Tyler Perry's Daddy's Little Girls,Tyler Perry's Daddy's Little Girls,-,Etats-Unis,00/00/0000
+223,226,Thriller,0 $,Tous publics,1h50,Agent double,Agent double,SND,Etats-Unis,28/11/2007
+224,227,Canada,0 $,PG,0h00,"Ma fille, mon ange","Ma fille, mon ange",-,Canada,00/00/0000
+225,230,Etats-Unis,0 $,PG,1h36,Gray Matters,Gray Matters,-,Etats-Unis,00/00/0000
+226,228,Etats-Unis,0 $,PG,1h51,Amazing Grace,Amazing Grace,-,Etats-Unis,00/00/0000
+227,229,Etats-Unis,13 000 000 $,PG,1h44,The Astronaut Farmer,The Astronaut Farmer,-,Etats-Unis,00/00/0000
+228,231,Etats-Unis,2 400 000 $,PG,1h42,Two Weeks,Two Weeks,-,Etats-Unis,00/00/0000
+229,232,Etats-Unis,0 $,PG,1h57,The Ultimate Gift,The Ultimate Gift,-,Etats-Unis,00/00/0000
+230,234,Etats-Unis,20 000 000 $,PG,3h05,A coeur ouvert,A coeur ouvert,Netflix,Etats-Unis,23/01/2008
+231,237,Etats-Unis,0 $,Tous publics,1h52,The Hawk is Dying - Dressé pour vivre,The Hawk is Dying - Dressé pour vivre,Zootrope Films,Etats-Unis,09/07/2008
+232,233,Etats-Unis,20 000 000 $,Moins de 12 ans,1h30,Dead Silence,Dead Silence,Paramount,Etats-Unis,21/11/2007
+233,236,Etats-Unis,0 $,PG,1h41,First Snow,First Snow,-,Etats-Unis,00/00/0000
+234,235,Etats-Unis,26 000 000 $,PG,1h40,Pride,Pride,-,Etats-Unis,00/00/0000
+235,238,Etats-Unis,0 $,PG,1h32,Are We Done Yet?,Are We Done Yet?,-,Etats-Unis,00/00/0000
+236,239,Etats-Unis,67 000 000 $,PG,3h11,Grind House,Grind House,-,Etats-Unis,00/00/0000
+237,240,Etats-Unis,0 $,PG,1h27,The TV Set,The TV Set,-,Etats-Unis,00/00/0000
+238,241,Etats-Unis,25 000 000 $,PG,1h35,Redline,Redline,-,Etats-Unis,00/00/0000
+239,242,Animation,750 000 $,PG,1h27,Aqua Teen Hunger Force Colon Movie Film for Theaters,Aqua Teen Hunger Force Colon Movie Film for Theaters,-,Etats-Unis,00/00/0000
+240,246,Etats-Unis,0 $,PG,1h48,Kickin' It Old Skool,Kickin' It Old Skool,-,Etats-Unis,00/00/0000
+241,243,Etats-Unis,15 500 000 $,PG,1h33,Slow Burn,Slow Burn,-,Etats-Unis,00/00/0000
+242,245,Etats-Unis,0 $,PG,1h40,The Condemned,The Condemned,-,Etats-Unis,00/00/0000
+243,244,Etats-Unis,0 $,PG,1h40,In the Land of Women,In the Land of Women,-,Etats-Unis,00/00/0000
+244,247,Etats-Unis,0 $,Tous publics,2h03,"Jindabyne, Australie","Jindabyne, Australie",Fabrique de Films,Etats-Unis,15/08/2007
+245,252,Etats-Unis,8 000 000 $,PG,1h35,Brooklyn Rules,Brooklyn Rules,-,Etats-Unis,00/00/0000
+246,250,Etats-Unis,0 $,PG,1h30,Delta Farce,Delta Farce,-,Etats-Unis,00/00/0000
+247,253,Drame,12 000 000 $,PG,1h45,Les Soldats du désert,Les Soldats du désert,-,Etats-Unis,00/00/0000
+248,254,Etats-Unis,0 $,PG,1h28,The Hip Hop Project,The Hip Hop Project,-,Etats-Unis,00/00/0000
+249,249,Etats-Unis,60 000 000 $,PG,1h53,Georgia Rule,Georgia Rule,-,Etats-Unis,00/00/0000
+250,251,Etats-Unis,0 $,PG,1h36,The Ex,The Ex,-,Etats-Unis,00/00/0000
+251,255,Etats-Unis,0 $,PG,1h36,Fay Grim,Fay Grim,-,Etats-Unis,00/00/0000
+252,256,Etats-Unis,0 $,PG,1h39,The Wendell Baker Story,The Wendell Baker Story,-,Etats-Unis,00/00/0000
+253,257,Drame,0 $,PG,1h48,Even Money,Even Money,-,Etats-Unis,00/00/0000
+254,259,Film familial,0 $,PG,1h39,Nancy Drew,Nancy Drew,-,Etats-Unis,00/00/0000
+255,262,Etats-Unis,35 000 000 $,PG,1h45,Shortcut to Happiness,Shortcut to Happiness,-,Etats-Unis,00/00/0000
+256,260,Etats-Unis,0 $,Tous publics,1h40,Permis de mariage,Permis de mariage,Warner Bros.,Etats-Unis,22/08/2007
+257,258,Drame,9 000 000 $,PG,2h35,Gracie,Gracie,-,Etats-Unis,00/00/0000
+258,261,Guerre,10 000 000 $,PG,2h00,Rescue Dawn,Rescue Dawn,-,Etats-Unis,00/00/0000
+259,263,Etats-Unis,10 000 000 $,PG,1h47,The Strangers,The Strangers,-,Etats-Unis,00/00/0000
+260,267,Drame,13 000 000 $,PG,1h52,Resurrecting the Champ,Resurrecting the Champ,-,Etats-Unis,00/00/0000
+261,266,Drame,0 $,PG,1h56,El Cantante,El Cantante,-,Etats-Unis,00/00/0000
+262,268,Comédie,0 $,PG,1h35,The Ten,The Ten,-,Etats-Unis,00/00/0000
+263,269,Etats-Unis,0 $,Tous publics,1h33,Ecole paternelle 2,Ecole paternelle 2,Sony Pictures,Etats-Unis,22/08/2007
+264,270,Etats-Unis,70 000 000 $,Tous publics,2h08,Stardust - Le Mystère de l'étoile,Stardust - Le Mystère de l'étoile,Paramount,Etats-Unis,24/10/2007
+265,264,Etats-Unis,0 $,PG,1h58,Talk to Me,Talk to Me,-,Etats-Unis,00/00/0000
+266,265,Etats-Unis,12 000 000 $,PG,1h37,Charlie Bartlett,Charlie Bartlett,-,Etats-Unis,00/00/0000
+267,271,Etats-Unis,15 000 000 $,Tous publics,1h41,Pénélope,Pénélope,ARP Selection,Etats-Unis,09/04/2008
+268,273,Etats-Unis,80 000 000 $,Moins de 12 ans,1h45,Le Royaume,Le Royaume,Paramount,Etats-Unis,31/10/2007
+269,274,Etats-Unis,20 000 000 $,Moins de 16 ans,1h49,Halloween 9,Halloween 9,TFM Distribution,Etats-Unis,10/10/2007
+270,276,Etats-Unis,0 $,Moins de 12 ans,1h30,Shoot 'Em Up,Shoot 'Em Up,Metropolitan,Etats-Unis,19/09/2007
+271,277,Etats-Unis,12 000 000 $,PG,1h53,Trade,Trade,-,Etats-Unis,00/00/0000
+272,272,Etats-Unis,0 $,Tous publics,1h36,"Charlie, les filles lui disent merci","Charlie, les filles lui disent merci",Sony Pictures,Etats-Unis,26/12/2007
+273,278,Etats-Unis,318 076,Comédie dramatique,24 000 000 $,Trop jeune pour elle,Trop jeune pour elle,-,Etats-Unis,00/00/0000
+274,275,Etats-Unis,0 $,Moins de 12 ans,1h50,Death Sentence,Death Sentence,Metropolitan,Etats-Unis,16/01/2008
+275,279,Aventure - Action,40 000 000 $,Moins de 12 ans,1h39,Rogue l'ultime affrontement,Rogue l'ultime affrontement,Metropolitan,Etats-Unis,05/09/2007
+276,286,Etats-Unis,456 459 $,Thriller,0 $,Possession (2009),Possession (2009),-,Etats-Unis,00/00/0000
+277,280,Etats-Unis,0 $,PG,1h42,Feast of Love,Feast of Love,-,Etats-Unis,00/00/0000
+278,281,Thriller,25 000 000 $,Moins de 12 ans,1h40,Les Promesses de l'ombre,Les Promesses de l'ombre,Metropolitan,Etats-Unis,07/11/2007
+279,285,Etats-Unis,50 000 000 $,Tous publics,1h57,3h10 pour Yuma,3h10 pour Yuma,TFM Distribution,Etats-Unis,26/03/2008
+280,283,Etats-Unis,22 000 000 $,Tous publics,1h27,Monsieur Woodcock,Monsieur Woodcock,Metropolitan,Etats-Unis,23/07/2008
+281,282,Thriller,0 $,Tous publics,2h01,Dans la vallée d'Elah,Dans la vallée d'Elah,Warner Bros.,Etats-Unis,07/11/2007
+282,284,Drame,19 000 000 $,Moins de 12 ans,1h55,Gone Baby Gone,Gone Baby Gone,Walt Disney Pictures,Etats-Unis,26/12/2007
+283,287,Etats-Unis,22 000 000 $,Tous publics,1h37,The Eye (2008),The Eye (2008),Mars Distribution,Etats-Unis,09/04/2008
+284,290,Etats-Unis,16 000 000 $,Tous publics,1h58,Nos souvenirs brûlés,Nos souvenirs brûlés,Paramount,Etats-Unis,30/01/2008
+285,288,Drame,0 $,Tous publics,1h54,Elizabeth : l'âge d'or,Elizabeth : l'âge d'or,Studiocanal,Grande-Bretagne,12/12/2007
+286,293,Etats-Unis,378 281 $,Comédie dramatique,0 $,Mama's Boy - Fils à maman,Mama's Boy - Fils à maman,-,Etats-Unis,00/00/0000
+287,289,Etats-Unis,0 $,Tous publics,2h00,Détention secrète,Détention secrète,Metropolitan,Etats-Unis,09/01/2008
+288,291,Drame,0 $,PG,1h42,Reservation Road,Reservation Road,-,Etats-Unis,00/00/0000
+289,292,Etats-Unis,0 $,Tous publics,1h33,Le Merveilleux magasin de Mr Magorium,Le Merveilleux magasin de Mr Magorium,Metropolitan,Etats-Unis,13/02/2008
+290,294,Drame,35 000 000 $,Tous publics,2h10,Reviens-moi,Reviens-moi,Studiocanal,Grande-Bretagne,09/01/2008
+291,295,Comédie,58 000 000 $,Tous publics,1h54,Jeux de dupes,Jeux de dupes,Paramount,Etats-Unis,23/04/2008
+292,296,Etats-Unis,30 000 000 $,Tous publics,2h06,P.S. I Love You,P.S. I Love You,SND,Etats-Unis,06/02/2008
+293,299,Comicbook,65 000 000 $,Moins de 12 ans,1h42,Sin City : j'ai tué pour elle,Sin City : j'ai tué pour elle,Metropolitan,Etats-Unis,17/09/2014
+294,298,Adaptation Théatre,50 000 000 $,Moins de 12 ans,1h56,"Sweeney Todd, le diabolique barbier de Fleet Street","Sweeney Todd, le diabolique barbier de Fleet Street",Warner Bros.,Etats-Unis,23/01/2008
+295,300,Japon,95 220,Animation,0 $,Doraemon: Nobita no kyôryû (Doraemon: Nobita's Dinosaur),Doraemon: Nobita no kyôryû (Doraemon: Nobita's Dinosaur),-,Japon,00/00/0000
+296,302,Aventure - Action,24 000 000 $,Tous publics,2h25,Capitaine Alatriste,Capitaine Alatriste,Metropolitan,Espagne,25/06/2008
+297,301,Japon,27 308 865 $,Aventure - Action,0 $,Dororo,Dororo,-,Japon,00/00/0000
+298,303,Japon,20 440 213 $,Animation,0 $,Détective Conan : Jolly Roger et le Cercueil Bleu Azur,Détective Conan : Jolly Roger et le Cercueil Bleu Azur,-,Japon,00/00/0000
+299,305,Japon,21 914 005 $,Aventure - Action,0 $,Unfair: The Movie,Unfair: The Movie,-,Japon,00/00/0000
+300,304,Italie,2 553 309,Comédie,0 $,Ho voglia di te,Ho voglia di te,-,Italie,00/00/0000
+301,306,Japon,18 856 642 $,Fantasy,0 $,Gegege no Kitarô,Gegege no Kitarô,-,Japon,00/00/0000
+302,307,Corée du Sud,16 062 566 $,Comédie,0 $,Il Beonga-eui Gi-jeok (Miracle on 1st Street),Il Beonga-eui Gi-jeok (Miracle on 1st Street),-,Corée du Sud,00/00/0000
+303,309,Corée du Sud,14 249 906 $,Horreur,0 $,Guk-rak-do Sal-in Sa-gun (Paradise Murdered),Guk-rak-do Sal-in Sa-gun (Paradise Murdered),-,Corée du Sud,00/00/0000
+304,310,Japon,16 227 662 $,Drame,0 $,"Tôkyô tawâ: Okan to boku to, tokidoki, oton (Tokyo Tower)","Tôkyô tawâ: Okan to boku to, tokidoki, oton (Tokyo Tower)",-,Japon,00/00/0000
+305,308,Italie,2 514 295,Comédie,0 $,Le Jour d'avant l'examen,Le Jour d'avant l'examen,-,Italie,00/00/0000
+306,312,Russie,12 543 015 $,Comédie,3 000 000 $,Lubov morkov,Lubov morkov,-,Russie,00/00/0000
+307,311,Japon,12 465 599 $,Animation,0 $,Kureyon Shinchan: Arashi o Yobu: Utau Ketsudake Bakudan! ( Crayon Shin-chan: Fierceness That Invites,Kureyon Shinchan: Arashi o Yobu: Utau Ketsudake Bakudan! ( Crayon Shin-chan: Fierceness That Invites,-,Japon,00/00/0000
+308,314,Comédie,0 $,Tous publics,1h42,J'aurais voulu être un danseur,J'aurais voulu être un danseur,Eurozoom,France,29/08/2007
+309,313,Etats-Unis,0 $,PG,1h40,The Amateurs,The Amateurs,-,Etats-Unis,00/00/0000
+310,315,Thriller,17 000 000 $,PG,2h24,Southland Tales,Southland Tales,-,Etats-Unis,00/00/0000
+311,316,Etats-Unis,0 $,PG,0h00,August (2008),August (2008),-,Etats-Unis,00/00/0000
+312,317,Comédie,5 570 905 $,Tous publics,1h24,Ce soir je dors chez toi,Ce soir je dors chez toi,Studiocanal,France,21/11/2007
+313,318,Grande-Bretagne,0 $,Tous publics,2h03,Joe Strummer : the Future is Unwritten,Joe Strummer : the Future is Unwritten,Sagittaire Films,Grande-Bretagne,11/07/2007
+314,319,Fantasy,6 000 000 $,PG,2h04,King Rising,King Rising,-,Etats-Unis,00/00/0000
+315,320,France,35 056 049 $,Tous publics,1h37,Les Bronzés 3: Amis pour la vie,Les Bronzés 3: Amis pour la vie,Warner Bros.,France,01/02/2006
